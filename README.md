@@ -54,8 +54,8 @@ Treinamento realizado por 5 épocas com resultados progressivos de acurácia.
 ##  Como Rodar Localmente
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/MatheusPrause/deep-learning-cats-vs-dogs.git
+cd deep-learning-cats-vs-dogs
 
 2. Crie e ative um ambiente virtual:
 python -m venv venv
